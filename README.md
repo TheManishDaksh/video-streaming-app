@@ -1,2 +1,2 @@
 # video-streaming-app
-A video streaming application
+A video streaming application only for my learning
